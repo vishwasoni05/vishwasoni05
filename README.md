@@ -25,7 +25,7 @@
 ## 📫 Let's Connect
 - 📧 Email: [vishwasoni11@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/sonivishwa)
-- 🖥 GitHub: [github.com/your-username](https://github.com)
+- 🖥 GitHub: [github.com/your-username](https://github.com/vishwasoni05)
 
 ---
 
