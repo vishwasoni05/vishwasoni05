@@ -8,8 +8,8 @@
 ## 🛠️ Tech Skills
 - *Languages*: Java, Python, C, C++, SQL
 - *Web Technologies*: HTML, CSS, JavaScript
-- *Database*: MySQL
-- *Tools & Platforms*: Git, GitHub, Oracle Cloud
+- *Database*: MySQL , PostgreSQL
+- *Tools & Platforms*: Git, GitHub
 
 ---
 
@@ -22,15 +22,8 @@
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Java (JDBC, JSP, Servlets)
-- Full Stack Development
-- Version Control and Deployment
-
----
-
 ## 📫 Let's Connect
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [vishwasoni11@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com)
 - 🖥 GitHub: [github.com/your-username](https://github.com)
 
